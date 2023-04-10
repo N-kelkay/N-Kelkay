@@ -1,4 +1,10 @@
-### Hi there 👋
+[![Nate Kelkay on LinkedIn](https://img.shields.io/badge/-Nate%20Kelkay-4B9CD3?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/natekelkay/)](https://www.linkedin.com/in/natekelkay/)
+
+
+I am Nate Kelkay; here are a few things about me:
+ - Computer Science B.S. student at UNC Chapel Hill
+ - 2x Software Engineer Intern at Google
+ - Former VP and Programming Lead of [FRC 449](https://github.com/blair-robot-project)
 
 <!--
 **N-kelkay/N-Kelkay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
